@@ -1,0 +1,20 @@
+# Keil 构建产物
+Output/
+Listing/
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.bin
+*.map
+*.lst
+*.lnp
+*.dep
+*.bak
+*.uvguix.*
+*.scvd
+NSCALSPEEDTEST.BAT
+
+# 编辑器
+.vscode/
